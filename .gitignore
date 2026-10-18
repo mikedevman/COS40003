@@ -1,0 +1,10 @@
+.idea/
+.obsidian/
+.vscode/
+*.iml
+*.gz
+*.xml
+.classpath
+.project
+.settings/
+bin/
